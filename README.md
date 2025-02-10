@@ -1,4 +1,4 @@
-# Hi there, I'm Sriram G 👋
+# Hi there, I'm Shakthi balan. S 👋
 
 ![Full Stack Developer](https://img.shields.io/badge/Full--Stack-Developer-blue?style=for-the-badge&logo=appveyor)
 
@@ -29,13 +29,5 @@ I love creating user-friendly, high-performance web applications and continuousl
     <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
 
----
-
-## 🌍 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/g-sriram400)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-twitter-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=firefox)](https://your-portfolio.com)
-
----
 
 ⭐️ Feel free to **star** my repositories if you find them useful!
